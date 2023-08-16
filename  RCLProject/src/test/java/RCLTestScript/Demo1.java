@@ -20,6 +20,10 @@ public class Demo1 {
 	 System.out.println("Current url the web page is:"+driver.getCurrentUrl());
 	 System.out.println("Page Source is:"+driver.getPageSource());
 	 
+	 
+	 System.out.println("India is my country");
+	 System.out.println("India is my country");
+	 
 		
 		
 		
